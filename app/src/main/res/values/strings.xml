@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Notes App</string>
+    <string name="search_notes">Pesquisar notas...</string>
+    <string name="sort_by_title">Ordenar por Título</string>
+    <string name="sort_by_date">Ordenar por Data</string>
+    <string name="new_note">Nova Nota</string>
+    <string name="edit_note">Editar Nota</string>
+    <string name="save_note">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_note">Excluir</string>
+    <string name="note_title_hint">Título da nota</string>
+    <string name="note_content_hint">Escreva sua nota aqui...</string>
+    <string name="tags_hint">Tags (separadas por vírgula)</string>
+    <string name="add_block">Adicionar Bloco</string>
+    <string name="text_color">Cor do Texto</string>
+    <string name="background_color">Cor de Fundo</string>
+    <string name="paragraph">Parágrafo</string>
+    <string name="header">Cabeçalho</string>
+    <string name="quote">Citação</string>
+    <string name="list">Lista</string>
+    <string name="code">Código</string>
+    <string name="error_save_note">Erro ao salvar nota</string>
+    <string name="error_load_notes">Erro ao carregar notas</string>
+    <string name="note_saved">Nota salva com sucesso</string>
+    <string name="note_deleted">Nota excluída</string>
+    <string name="confirm_delete">Tem certeza que deseja excluir esta nota?</string>
+    <string name="no_notes_found">Nenhuma nota encontrada</string>
+</resources>
